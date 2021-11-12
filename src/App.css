@@ -449,7 +449,7 @@ hr {
 
 .messageBox {
     background-color: #182a31;
-    min-height: 50vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: left;
